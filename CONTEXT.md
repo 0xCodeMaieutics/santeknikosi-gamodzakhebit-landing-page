@@ -21,7 +21,7 @@ A WhatsApp conversation with the same number, +995 599 45 70 70. Used when the H
 _Avoid_: SMS, Messenger as a documented channel unless we add it later
 
 **Email**:
-`santservice64@gmail.com`. A footer contact only, not a hero action.
+`santservice6@gmail.com`. A footer contact only, not a hero action.
 _Avoid_: Email as a primary conversion, a contact form that mails this address
 
 **Facebook page**:

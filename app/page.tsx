@@ -6,7 +6,7 @@ const WHATSAPP = "https://wa.me/995599457070";
 const INSTAGRAM = "https://www.instagram.com/sant.service/";
 const FACEBOOK =
   "https://www.facebook.com/profile.php?id=61552343170403";
-const EMAIL = "santservice64@gmail.com";
+const EMAIL = "santservice6@gmail.com";
 
 const services = [
   "კანალიზაციის წმენდა",
